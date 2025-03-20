@@ -1,0 +1,6 @@
+.env
+.env.test
+node_modules/
+postgres-data/
+dist/
+coverage/
